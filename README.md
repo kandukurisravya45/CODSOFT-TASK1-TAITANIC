@@ -47,3 +47,9 @@ The main objective of this project is to build a Machine Learning model that can
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/titanic-survival-prediction.git
+2.Navigate to the project folder and start Jupyter Notebook:
+
+jupyter notebook
+
+
+3.Open the .ipynb file and run all cells step by step.
