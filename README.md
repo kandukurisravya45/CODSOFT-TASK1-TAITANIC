@@ -46,10 +46,44 @@ The main objective of this project is to build a Machine Learning model that can
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
+  git clone https://github.com/kandukurisravya45/CODSOFT-TASK1-TAITANIC.git
 2.Navigate to the project folder and start Jupyter Notebook:
 
 jupyter notebook
 
 
 3.Open the .ipynb file and run all cells step by step.
+
+.
+
+🧠 Learning Outcomes
+
+Understanding real-world datasets
+
+Data cleaning and preprocessing techniques
+
+Exploratory Data Analysis (EDA)
+
+Machine Learning model building
+
+Model evaluation
+
+🔮 Future Enhancements
+Try advanced Machine Learning algorithms
+
+Improve accuracy using hyperparameter tuning
+
+Deploy the model using Flask or Streamlit
+
+⭐ Acknowledgements
+
+Kaggle for providing the Titanic dataset
+
+Open-source Python libraries used in this project
+
+👨‍💻 Developer Information
+Built by: KANDUKURI SRAVYA
+Internship: CODSOFT DATA SCIENCE Program
+Batch: December B71
+Date: December 2025
+
