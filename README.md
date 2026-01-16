@@ -59,7 +59,8 @@ The main objective of this project is to build a Machine Learning model that can
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-   ```bash   git clone https://github.com/kandukurisravya45/CODSOFT-TASK1-TAITANIC.git
+   ```bash
+    git clone https://github.com/kandukurisravya45/CODSOFT-TASK1-TAITANIC.git
  
   
 2.Navigate to the project folder and start Jupyter Notebook:
