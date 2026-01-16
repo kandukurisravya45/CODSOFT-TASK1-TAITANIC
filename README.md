@@ -8,6 +8,7 @@ It is a beginner-friendly Machine Learning project that demonstrates the complet
 The main objective of this project is to build a Machine Learning model that can accurately predict the survival of Titanic passengers using historical data.
 
 ## 🛠️ Technologies & Tools Used
+
 - Python  
 - Jupyter Notebook  
 - NumPy  
@@ -59,18 +60,18 @@ The main objective of this project is to build a Machine Learning model that can
 
 1. Clone the repository:
    ```bash   git clone https://github.com/kandukurisravya45/CODSOFT-TASK1-TAITANIC.git
-  git clone https://github.com/kandukurisravya45/CODSOFT-TASK1-TAITANIC.git
+ 
   
 2.Navigate to the project folder and start Jupyter Notebook:
 
-jupyter notebook
+  jupyter notebook
 
 
 3.Open the .ipynb file and run all cells step by step.
 
 
 
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 
 Understanding real-world datasets
 
@@ -82,7 +83,7 @@ Machine Learning model building
 
 Model evaluation
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Try advanced Machine Learning algorithms
 
@@ -90,14 +91,14 @@ Improve accuracy using hyperparameter tuning
 
 Deploy the model using Flask or Streamlit
 
-⭐ Acknowledgements
+## ⭐ Acknowledgements
 
 Kaggle for providing the Titanic dataset
 
 Open-source Python libraries used in this project
 
 
-👨‍💻 Developer Information
+## 👨‍💻 Developer Information
 
 Built by: KANDUKURI SRAVYA
 
